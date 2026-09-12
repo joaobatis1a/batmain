@@ -1,51 +1,40 @@
 # Minha História e Batman
 
-Projeto desenvolvido como atividade avaliativa da disciplina, utilizando HTML, CSS e JavaScript.
+**Atividade avaliativa da faculdade** · HTML · CSS · JavaScript
 
-O site apresenta uma narrativa que relaciona aspectos da minha trajetória pessoal com a história do personagem Batman, explorando semelhanças, desafios e inspirações de forma criativa. O desenvolvimento foi realizado seguindo os conteúdos e requisitos propostos pela professora durante o período, com foco na aplicação prática dos conhecimentos adquiridos em sala de aula.
+[![License: MIT](https://img.shields.io/badge/license-MIT-FBBF24?style=flat-square)](LICENSE)
 
-## Objetivos do Projeto
+Site que relaciona aspectos da minha trajetória pessoal com a história do personagem Batman, explorando semelhanças, desafios e inspirações de forma criativa.
 
-* Aplicar os conceitos estudados durante a disciplina.
-* Desenvolver uma página web utilizando HTML, CSS e JavaScript.
-* Praticar a estruturação de conteúdo, estilização e interatividade.
-* Atender aos requisitos definidos para a avaliação da atividade.
+![Captura de tela do projeto](docs/img/preview.png)
 
-## Tecnologias Utilizadas
+## Sobre o projeto
 
-* HTML5
-* CSS3
-* JavaScript
+Projeto desenvolvido como atividade avaliativa da disciplina, seguindo os conteúdos e requisitos propostos pela professora durante o período, com foco na aplicação prática dos conhecimentos adquiridos em sala de aula.
 
-## Estrutura do Projeto
+## Stack
 
-```text
-├── img/
-├── .gitignore
-├── index.html
-├── README.md
-├── script.js
-└── style.css
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+## Como rodar
+
+```bash
+git clone https://github.com/joaobatis1a/batmain.git
+cd batmain
 ```
+
+Abra o arquivo `index.html` no navegador, ou use a extensão **Live Server** no VS Code.
 
 ## Autor
 
-João Batista da Silva Neto
+**João Batista da Silva Neto**
 
-Projeto desenvolvido para fins acadêmicos como parte das atividades do período letivo.
+- GitHub: [@joaobatis1a](https://github.com/joaobatis1a)
+- LinkedIn: [joao-batista-silva-neto](https://linkedin.com/in/joao-batista-silva-neto)
+- E-mail: [profissionalba1is1a@gmail.com](mailto:profissionalba1is1a@gmail.com)
 
-## Como Executar
+## Licença
 
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
-
-2. Acesse a pasta do projeto:
-
-```bash
-cd seu-repositorio
-```
-
-3. Abra o arquivo `index.html` em seu navegador ou utilize a extensão **Live Server** no VS Code para uma melhor experiência de desenvolvimento.
+Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais detalhes.
